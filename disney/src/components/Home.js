@@ -5,12 +5,13 @@ import Movies from "./Movies";
 import Viewers from "./Viewers";
 
 const Home = () => {
-  return <Container>
-      
-      <ImgSlider/>
-      <Viewers/>
-      <Movies/>
-  </Container>;
+  return (
+    <Container>
+      <ImgSlider />
+      <Viewers />
+      <Movies />
+    </Container>
+  );
 };
 
 export default Home;
