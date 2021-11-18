@@ -13,7 +13,7 @@ const Movies = () => {
           <img src="https://i.ebayimg.com/images/g/xGQAAOSwOXBf4AAS/s-l400.jpg" />
         </Wrap>
         <Wrap>
-          <img src="https://i.ebayimg.com/images/g/xGQAAOSwOXBf4AAS/s-l400.jpg" />
+          <img src="https://lumiere-a.akamaihd.net/v1/images/p_disneyplusoriginals_ciaoalberto_21978_v2_3911dd0e.jpeg?region=0,0,540,810&width=320" />
         </Wrap>
         <Wrap>
           <img src="https://i.ebayimg.com/images/g/xGQAAOSwOXBf4AAS/s-l400.jpg" />
@@ -22,10 +22,10 @@ const Movies = () => {
           <img src="https://i.ebayimg.com/images/g/xGQAAOSwOXBf4AAS/s-l400.jpg" />
         </Wrap>
         <Wrap>
-          <img src="https://i.ebayimg.com/images/g/xGQAAOSwOXBf4AAS/s-l400.jpg" />
+          <img src="https://lumiere-a.akamaihd.net/v1/images/p_disneyplusoriginals_ciaoalberto_21978_v2_3911dd0e.jpeg?region=0,0,540,810&width=320" />
         </Wrap>
         <Wrap>
-          <img src="https://i.ebayimg.com/images/g/Z4QAAOSwYkdfVSoO/s-l400.jpg" />
+          <img src="https://lumiere-a.akamaihd.net/v1/images/p_disneyplusoriginals_ciaoalberto_21978_v2_3911dd0e.jpeg?region=0,0,540,810&width=320" />
         </Wrap>
         <Wrap>
           <img src="https://i.ebayimg.com/images/g/Z4QAAOSwYkdfVSoO/s-l400.jpg" />
