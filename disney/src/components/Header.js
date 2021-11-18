@@ -7,7 +7,23 @@ const Header = () => {
       <NavMenu>
           <a>
               <img src="/images/home-icon.svg"/>
-              <span>Home</span>
+              <span>HOME</span>
+          </a>
+          <a>
+              <img src="/images/search-icon.svg"/>
+              <span>SEARCH</span>
+          </a>
+          <a>
+              <img src="/images/watchlist-icon.svg"/>
+              <span>WATCHLIST</span>
+          </a>
+          <a>
+              <img src="/images/original-icon.svg"/>
+              <span>ORIGINALS</span>
+          </a>
+          <a>
+              <img src="/images/movie-icon.svg"/>
+              <span>MOVIES</span>
           </a>
 
       </NavMenu>
@@ -29,6 +45,19 @@ width: 80px;
 
 `
 const NavMenu=styled.div`
+display: flex;
+a{
+    display: flex;
+    align-items: center;
+    padding: 0 12px;
+    img{
+        height: 20px;
+    }
+    span{
+        font-size: 13px;
+        letter-spacing: 1.32px;
+    }
+}
 
 
 `
