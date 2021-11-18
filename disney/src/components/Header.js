@@ -72,18 +72,18 @@ const NavMenu = styled.div`
         position: absolute;
         opacity: 0;
         transform: scaleX(0);
-        transition: .3s linear;
+        transition: 0.3s linear;
         left: 0;
         right: 0;
         bottom: -6px;
         transform-origin: left center;
       }
     }
-    &:hover{
-        span:after{
-            transform: scaleX(1);
-            opacity: 1;
-        }
+    &:hover {
+      span:after {
+        transform: scaleX(1);
+        opacity: 1;
+      }
     }
   }
 `;
